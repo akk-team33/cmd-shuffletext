@@ -1,0 +1,21 @@
+Als Blindtext wird Text bezeichnet, den man bei der Gestaltung von Publikationen verwendet, wenn der eigentliche Text noch nicht vorliegt.
+Ein Musterblatt mit Schriftarten und Sprachen von William Caslon I, Schriftgiesser; aus der Cyclopaedia, or an Universal Dictionary of Arts and Sciences. Als Blindtext wird „Quousque tandem abutere, Catilina, patientia nostra?“ verwendet.
+Verwendung
+
+Mit Hilfe des Blindtextes kann die Verteilung des Textes auf der Seite (Layout oder Satzspiegel) sowie Lesbarkeit und Platzbedarf der verwendeten Schriftarten (Typografie) beurteilt werden. Er besteht aus einer mehr oder minder sinnlosen Folge von Wörtern, oft auch nur aus wortähnlichen Silbenfolgen. Ein bekanntes Beispiel dafür ist das „lateinische“ Lorem ipsum. Komponisten von Liedern benutzen Blindtexte beim Komponieren von Melodien und singen diese, bevor der Liedtext gedichtet wird.
+
+Andere Texte dienen dazu, die Eigenheiten der Schriftarten miteinander vergleichen zu können. In solchen Pangrammen werden möglichst alle Buchstaben und Sonderzeichen des jeweiligen sprachtypischen Alphabets bei einer möglichst geringen Gesamtlänge des Satzes beziehungsweise der Sätze verwendet. Bekannte Beispiele sind:
+
+    „Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.“ (bekannt aus der Schriftenanzeige von Microsoft Windows)
+    „Falsches Üben von Xylophonmusik quält jeden größeren Zwerg.“ (bekannt aus der Schriftenanzeige von KDE)
+    „The quick brown fox jumps over the lazy dog“ (englisch für „Der schnelle braune Fuchs springt über den faulen Hund“)
+    „Jackdaws love my big sphinx of quartz.“ (Dohlen lieben meine große Sphinx aus Quarz)
+    „Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich“
+    „Die heiße Zypernsonne quälte Max und Victoria ja böse auf dem Weg zur Küste“
+    „Fix Schwyz! quäkt Jürgen blöd vom Paß“ – dieser Satz ist das einzige im Deutschen bekannte echte Pangramm, das jeden Buchstaben, einschließlich der Umlaute und des ß, genau einmal enthält (nach der neuen Rechtschreibung wird allerdings „Pass“ mit „ss“ geschrieben)
+    „Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.“ - eine Art verballhorntes Latein.
+
+Es geht allerdings auch noch kürzer: Schriftmusterwörter wie „Hamburgefonts“ stellen den Charakter einer Schrift dar, ohne das ganze Alphabet zu verwenden.
+Character Generator Protocol
+
+Das Character Generator Protocol (CHARGEN) ist Bestandteil der Internetprotokollfamilie zum Testen, Messen und zur Fehlersuche bei Internetverbindungen.[1]
